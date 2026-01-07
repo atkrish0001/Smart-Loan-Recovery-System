@@ -48,5 +48,3 @@ This project predicts whether a loan is likely to be recovered using historical 
 - Add real-time prediction API
 - Compare with XGBoost / Logistic Regression
 
-## 👤 Author
-Krish Agarwal
